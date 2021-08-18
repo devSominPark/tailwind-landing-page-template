@@ -46,10 +46,10 @@ function HeroHome() {
               className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4"
               data-aos="zoom-y-out"
             >
-              Tailwind Landing Page
-              <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
+              Welcome
+              <div className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
                 devSominPark
-              </span>
+              </div>
             </h1>
             <div className="max-w-3xl mx-auto">
               <p
